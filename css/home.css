@@ -1,0 +1,11 @@
+﻿@font-face {
+	font-family: 'kenzo';
+	src: url('../fonts/kenzo.eot');
+	src: url('../fonts/kenzo.eot?#iefix') format('embedded-opentype'), url('../fonts/kenzo.woff') format('woff'), url('../fonts/kenzo.ttf') format('truetype');
+}
+
+html * {
+	font-family: kenzo;
+  background-color: #272B30;
+}
+
